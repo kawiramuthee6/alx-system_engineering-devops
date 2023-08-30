@@ -1,2 +1,5 @@
 0 string SCHOOL
+file -C -m school.mgc
+file -m school.mgc * | grep "SCHOOL"
+
 
