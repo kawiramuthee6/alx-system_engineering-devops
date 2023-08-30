@@ -1,4 +1,2 @@
-0 string SCHOOL School data file
-file -C -m school.mgc
-file -m school.mgc datafile.bin
+0 string SCHOOL
 
