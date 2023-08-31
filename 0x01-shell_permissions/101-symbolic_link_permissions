@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent:staff *
+chmmon -h vincent:staff _hello
